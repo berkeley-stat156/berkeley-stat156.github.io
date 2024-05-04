@@ -13,7 +13,7 @@
 # you will see them accessed via \{\{ site.title \}\}, \{\{ site.github_repo \}\}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via \{\{ site.myvariable \}\}.
-title: Stat 156: Causal Inference
+title: "Stat 156: Causal Inference"
 tagline: Course Overview
 description: This course will focus on approaches to causal inference using the potential outcomes framework. It will also use causal diagrams at an intuitive level. The main topics are classical randomized experiments, observational studies, instrumental variables, principal stratification and mediation analysis. Applications are drawn from a variety of fields including political science, economics, sociology, public health, and medicine. This course is a mix of statistical theory and data analysis. Students will be exposed to statistical questions that are relevant to decision and policy making. This course uses R as its primary computing language; details are determined by the instructor.
 author: SCF
