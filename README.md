@@ -27,6 +27,12 @@ UC Berkeley
 
 This course will focus on approaches to causal inference using the potential outcomes framework. It will also use causal diagrams at an intuitive level. The main topics are classical randomized experiments, observational studies, instrumental variables, principal stratification and mediation analysis. Applications are drawn from a variety of fields including political science, economics, sociology, public health, and medicine. This course is a mix of statistical theory and data analysis. Students will be exposed to statistical questions that are relevant to decision and policy making. This course uses R as its primary computing language; details are determined by the instructor.
 
+## Logistics
+
+Three hours of lecture and two hours of laboratory per week. 
+
+Written final exam conducted during the scheduled final exam period.
+
 ## Prerequisites
 
 Statistics 135
