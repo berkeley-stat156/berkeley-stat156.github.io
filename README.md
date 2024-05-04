@@ -31,8 +31,6 @@ This course will focus on approaches to causal inference using the potential out
 
 Three hours of lecture and two hours of laboratory per week. 
 
-Written final exam conducted during the scheduled final exam period.
-
 ## Prerequisites
 
 Statistics 135
