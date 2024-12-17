@@ -1,14 +1,14 @@
 ---
 layout: home
-title: "Stat 156: Causal Inference"
+title: "Stat 156: Bayesian Inference"
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: "Stat 156: Causal Inference"
+  name: "Stat 156: Bayesian Inference"
 ---
 
-# Stat 156: Causal Inference
+# Stat 156: Bayesian Inference
 {: .mb-2 }
 UC Berkeley
 {: .mb-0 .fs-6 .text-grey-dk-000 }
@@ -21,14 +21,15 @@ UC Berkeley
 
 
 
+
 ## Overview
 
-This course will focus on approaches to causal inference using the potential outcomes framework. It will also use causal diagrams at an intuitive level. The main topics are classical randomized experiments, observational studies, instrumental variables, principal stratification and mediation analysis. Applications are drawn from a variety of fields including political science, economics, sociology, public health, and medicine. This course is a mix of statistical theory and data analysis. Students will be exposed to statistical questions that are relevant to decision and policy making. This course uses R as its primary computing language; details are determined by the instructor.
+Calculation of conditional expectation and distribution. Structure of decision problems. Conjugate families for standard distributions. Linear models. Dirichlet distributions. DeFinetti's theorem. Optimal stopping and other design problems. 
 
 ## Logistics
 
-Three hours of lecture and two hours of laboratory per week. 
+Three hours of Lecture per week for 15 weeks.
 
 ## Prerequisites
 
-Statistics 135
+102 or 103B. 
